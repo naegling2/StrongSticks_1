@@ -1,0 +1,21 @@
+[
+{
+  "modid": "StrongSticks",
+  "name": "StrongSticks",
+  "description": "Make sticks stoned and stones sticky!",
+  "version": "1.0 ",
+  "mcversion": "1.7.2",
+  "url": "https://github.com/naegling2/StrongSticks_1",
+  "updateUrl": "",
+  "authorList": [
+    "naegling2", "sageshaw"
+  ],
+  "credits": "To naegling2, sageshaw, and DoctorTomago",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
